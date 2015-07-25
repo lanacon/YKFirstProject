@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>µÇÂ½</title>
+</head>
+
+<body bgcolor="#333366">
+
+<div class="form" id="formID" align="center">
+<form id="form1" name="form1" method='post' action="{:U('handle')}">
+<p><input type="text" value="abc" name='username' id='username'/> </p>
+ <p><input type="text" value = "abcd" name='content' id='content'/></p>
+  <p><input type="submit" value = "abcc" /></p>
+</form>
+</div>
+
+<div align='center'>
+	<foreach name='wish' item='v'>
+		<p> 
+			<label>{$v.name}</label>
+			<label>{$v.content}</label>
+			<label>{$v.time|date='y-m-d H',###}</label>
+		</p>
+
+	</foreach>
+</div>
+
+</body>
+</html>

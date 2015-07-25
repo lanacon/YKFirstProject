@@ -1,0 +1,129 @@
+[ 2015-07-24T18:11:49+08:00 ] 127.0.0.1 /wish/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `hd_wish`  [ RunTime:0.0036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2015-07-24T18:12:15+08:00 ] 127.0.0.1 /wish/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `hd_wish`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000888s ]
+
+[ 2015-07-24T18:18:15+08:00 ] 127.0.0.1 /wish/index.php?m=Home&c=Index&a=handle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.0027s ]
+SQL: INSERT INTO `hd_wish` (`username`,`content`,`time`) VALUES ('abc','abcd','1437733095') [ RunTime:0.0082s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' /Library/WebServer/Documents/wish/Index/Home/Controller/IndexController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/wish/Index/Home/Controller/IndexController.class.php:27) /Library/WebServer/Documents/wish/ThinkPHP/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/wish/Index/Home/Controller/IndexController.class.php:27) /Library/WebServer/Documents/wish/ThinkPHP/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/wish/Index/Home/Controller/IndexController.class.php:27) /Library/WebServer/Documents/wish/ThinkPHP/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006476s ]
+
+[ 2015-07-24T18:18:16+08:00 ] 127.0.0.1 /wish/index.php?m=Home&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `hd_wish`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+NOTIC: [8] Undefined index: name /Library/WebServer/Documents/wish/Index/Runtime/Cache/Home/f8cf203eb98c60ed9cec339b90173a5c.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
