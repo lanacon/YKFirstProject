@@ -7,7 +7,7 @@ return array(
 	'DB_USER' => 'root',
 	'DB_PWD' => '12345',
 	'DB_NAME' => 'qd_users',
-	'DB_PREFIX' => 'hd_', 
+	'DB_PREFIX' => '', 
 
 
 	'URL_HTML_SUFFIX' => '',
